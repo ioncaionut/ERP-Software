@@ -1,6 +1,6 @@
 # ERP-Software
 
-#### Crere conturi USERI
+#### Creare conturi USERI
     * Vanzari 
     * Achizitii
     * Productie
@@ -16,7 +16,7 @@
             * aducere articole in comenzi de vanzare, produse finite
             * deschidere comanda de productie(cu buton) din comanda de vanzare
         * Print AVIZ de expeditie
-        * Inchide comada vanzare ,dupa print aviz
+        * Inchide comada vanzare automat ,dupa print aviz
     
 #### Comenzi achizitie
         * Comenzi de achizitie                     
