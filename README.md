@@ -1,5 +1,12 @@
 # ERP-Software
 
+#### Crere conturi USERI
+    * Vanzari 
+    * Achizitii
+    * Productie
+    * Contabilitate
+    * Gestiune + Livrare
+
 #### Gestiune stocuri materie prima  + articole (produse finite)
     * Articole din gestiune
     * Pret vanzare articole din gestiune
@@ -11,11 +18,14 @@
     * Articole de comandat de la furnizori care intra in gestiune 
 
 #### Comenzi productie
-    * Calcul de pret de productie + comanda propriuzisa de productie
+    * Calcul de pret de productie 
+    * Realizare comanda propriuzisa de productie
 
 #### Consumuri pe comenzi de productie
-    * Declararea consumurilor de materie prima ce se vor scadea automat din gestiune materie prima
-
-#### Livrare comenzi realizate
-    * trimitere email catre curier
+    * Raportarea consumurilor de materie prima ce se vor scadea automat din gestiune materie prima
+    * Introducere articole (produse finite) in gestiune, automat dupa decararea consumurilor pe comanda de productie
+     
+#### Gestiune + Livrare comenzi realizate
+    * Print AVIZ de expeditie
+    * Trimitere email catre curier
 
