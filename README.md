@@ -17,4 +17,5 @@
     * Declararea consumurilor de materie prima ce se vor scadea automat din gestiune materie prima
 
 #### Livrare comenzi realizate
-    
+    * trimitere email catre curier
+
