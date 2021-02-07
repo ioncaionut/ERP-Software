@@ -13,6 +13,7 @@
 #### Comenzi vanzare
     * Oferta pret cu adaos variabil pentru clienti
     * Articole din comenzi de vanzare, produse finite
+    * Inchide comada vanzare
     
 #### Comenzi achizitie
     * Articole de comandat de la furnizori care intra in gestiune 
