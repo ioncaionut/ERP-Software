@@ -1,6 +1,4 @@
 from django.contrib import admin
+from .models import AisErp
 
-# Register your models here.
-from .models import Ais
-
-admin.site.register(Ais)
+admin.site.register(AisErp)
