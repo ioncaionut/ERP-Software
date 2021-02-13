@@ -16,9 +16,10 @@ Including another URLconf
 from django.contrib import admin
 from django.urls import include, path
 from AIS_ERP.views import ais_erp_list_view
-urlpatterns = [
 
-    path('AIS_ERP/', include('AIS_ERP.urls')),
+
+urlpatterns = [
+    # path('AIS_ERP/', include('AIS_ERP.urls')),
     path('admin/', admin.site.urls),
-    path('ais_erp/', ais_erp_list_view)
+    path('ais_erp/', ais_erp_list_view),
 ]
