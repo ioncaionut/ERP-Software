@@ -6,7 +6,7 @@ from .models import AIS_ERP
 def ais_erp_list_view(request):
     ais_erp_objects = AIS_ERP.objects.all()
     context = {
-        'ais_erp_objects' : ais_erp_objects
+        'ais_erp_objects': ais_erp_objects
     }
     return render(request, "ais_erp/index.html", context)
 
