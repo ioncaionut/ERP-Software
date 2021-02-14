@@ -15,7 +15,6 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import include, path
-# from AIS_ERP.views import ais_erp_list_view
 from users import views as user_views
 
 
